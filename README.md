@@ -153,11 +153,7 @@ tar -tzf $HOME/log_archives/logs_archive_YYYYMMDD_HHMMSS.tar.gz
 * File compression
 * Archive creation
 * Exit status handling
+  
+## Project URL
 
-## Author
-
-Hema
-
-## License
-
-This project is created for learning and educational purposes.
+https://roadmap.sh/projects/log-archive-tool
